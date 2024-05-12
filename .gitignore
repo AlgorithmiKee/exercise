@@ -1,0 +1,12 @@
+# Ignore binaries
+*.out
+*.exe
+*.dSYM
+
+# Ignore temporary files
+*.plist
+*.yml
+.DS_Store
+
+# Ignore JSON
+*.json
