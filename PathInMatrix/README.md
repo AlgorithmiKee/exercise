@@ -9,11 +9,12 @@ Consider a binary matrix $M\in \{0, 1\}^{n\times m}$ as a map. Each cell $M[i,j]
 For simplicity, you may assume that $M[0,0] = M[n-1,m-1] =1$ always holds
 
 **Example:** given a 3 by 4 map
+
 $$
  \begin{bmatrix}
     1 & 0 & 1 & 1 \\
     1 & 1 & 1 & 1 \\
-    1 & 0 & 1 & 1 \\
+    1 & 0 & 1 & 1 
  \end{bmatrix}
 $$
 
